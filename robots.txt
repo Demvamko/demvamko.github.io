@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+Igrica: 
+    Kanarinac unutar kaveza (šupljeg, pravio ga cigan jbg)
+
+    Moraš kontrolišeš da ne pobegne (tehnički jbg)
